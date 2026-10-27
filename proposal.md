@@ -1,8 +1,12 @@
 # PROPOSAL PROYEK AKHIR ALGORITMA DAN PEMROGRAMAN
 **Judul Proyek:** Program Rekapitulasi dan Analisis Nilai Matematika   
+
 **Nama:**  Sulastri
+
 **Kelas:** B
+
 **Nim:** 2225250152
+
 **Prodi:** Pendidikan Matematika
 
 ---
