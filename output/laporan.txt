@@ -1,0 +1,19 @@
+==================================================
+REKAPITULASI DAN ANALISIS NILAI MATEMATIKA KELAS
+==================================================
+Batas KKM: 75
+
+RINGKASAN STATISTIK:
+- Jumlah Siswa Valid   : 5
+- Rata-rata Kelas      : 81.00
+- Nilai Tertinggi (Max): 100.0
+- Nilai Terendah (Min) : 55.0
+- Tuntas               : 3 siswa
+- Belum Tuntas         : 2 siswa
+
+DAFTAR DETAIL SISWA:
+[22001] Ahmad           - Nilai: 85.0  (TUNTAS)
+[22002] Budi            - Nilai: 70.0  (BELUM TUNTAS)
+[22003] Citra           - Nilai: 95.0  (TUNTAS)
+[22004] Dewi            - Nilai: 55.0  (BELUM TUNTAS)
+[22005] Eko             - Nilai: 100.0 (TUNTAS)
