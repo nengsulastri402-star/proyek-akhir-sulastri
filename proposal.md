@@ -1,11 +1,9 @@
 # PROPOSAL PROYEK AKHIR ALGORITMA DAN PEMROGRAMAN
-**Judul Proyek:** Program Rekapitulasi dan Analisis Nilai Matematika Kelas  
-**Kelompok:** [Isi Nama Kelompok]  
-**Anggota Tim:**  
-1. [Nama Anggota 1] - NIM: [Isi NIM] (Koordinator & Dokumentasi)  
-2. [Nama Anggota 2] - NIM: [Isi NIM] (Programmer Data I/O)  
-3. [Nama Anggota 3] - NIM: [Isi NIM] (Programmer Logika & Statistik)  
-4. [Nama Anggota 4] - NIM: [Isi NIM] (Tester & QA)  
+**Judul Proyek:** Program Rekapitulasi dan Analisis Nilai Matematika   
+**Nama:**  Sulastri
+**Kelas:** B
+**Nim:** 2225250152
+**Prodi:** Pendidikan Matematika
 
 ---
 
