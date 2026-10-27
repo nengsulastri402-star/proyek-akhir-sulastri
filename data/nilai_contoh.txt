@@ -1,0 +1,6 @@
+NIM,Nama,Nilai
+22001,Ahmad,85
+22002,Budi,70
+22003,Citra,95
+22004,Dewi,55
+22005,Eko,100
